@@ -5,6 +5,8 @@
 * 中文名：黑龙江省实验中学935小组 
 * 外文名：SSY935
 
+[logo](http://a1.qpic.cn/psc?/V10A7iv62mPqsM/NrBG0KpF3EQEf3NYGEmENz8OhxEK3O3SPuI5OagQhkDlDJDrfeyyO72uOYQVSFFn.xnrGfk7JFeW2UwcoULUmQ!!/c&ek=1&kp=1&pt=0&bo=JAP2AQAAAAADJ9I!&tl=1&vuin=1649157526&tm=1579878000&sce=60-2-2&rf=newphoto&t=5)
+
 * 一.社团历史:
   * 社团创始人:2016届八班倪睿聪
   * 历届社长
@@ -42,3 +44,4 @@
 * 五.实验场地
   
   除黑龙江省实验中学校内的两处实验室外，本社团外设两处户外实验场地
+
